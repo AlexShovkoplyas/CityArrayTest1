@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "userName": "Alex",
+        "city": "Lviv",
+        "rating": 4,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lviv.Theatre.of.Opera.and.Ballet.jpg/600px-Lviv.Theatre.of.Opera.and.Ballet.jpg",
+        "description": "Lviv is beautiful"
+    },
+    {
+        "id": 2,
+        "userName": "Bob",
+        "city": "Lviv",
+        "rating": 4.5,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D0%9B%D0%B2%D0%BE%D0%B2_%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D0%B8%D1%98%D0%B0.jpg/600px-%D0%9B%D0%B2%D0%BE%D0%B2_%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D0%B8%D1%98%D0%B0.jpg",
+        "description": "Lviv is awesome"
+    },
+    {
+        "id": 1,
+        "userName": "Alex",
+        "city": "Kyiv",
+        "rating": 4.1,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kyiv_Montage_2016.png/600px-Kyiv_Montage_2016.png",
+        "description": "Lviv is beautiful"
+    }
+]
